@@ -1,0 +1,10 @@
+*.o
+*.so
+*.a
+*.out
+*.exe
+*.txt
+*.lib
+*.log
+*.tar.gz
+file
